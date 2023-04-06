@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](README.md)
-- [Installation]()
+- [Installation](install.md)
 - [Linux]()
   - [Système de fichier]()
   - [Actions basiques]()
@@ -18,6 +18,7 @@
   - [Headers]()
   - [Macros]()
 - [Make]()
+- [GIT]()
 - [Structures de données]()
   - [Binary Tree]()
   - [Linked List]()
